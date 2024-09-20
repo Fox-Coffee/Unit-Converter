@@ -1,8 +1,8 @@
 # Unit converter
-This is a program used to convert units of measurment (ex. meters to yards). Currently the program allows to convert units of distance. The program runs in the command prompt or terminal.
+This is a program used to convert units of measurment (ex. meters to yards). Currently the program allows to convert units of distance and mass. The program runs in the command prompt or terminal.
 
 ## Features
-The program currently allows for conversion of distance from one unit to another.
+The program currently allows for conversion of distance or mass from one unit to another.
 
 ## How to run?
 
